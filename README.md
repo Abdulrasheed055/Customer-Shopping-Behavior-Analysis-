@@ -212,3 +212,5 @@ HAVING COUNT(*) > 5;
 * Objective: Support marketing, sales, and product strategy using actionable insights
 
 ```
+
+Dashboard interaction <a href="https://github.com/Abdulrasheed055/Customer-Shopping-Behavior-Analysis-/commit/7cfcaddfced171641487c70f73029a0ce75aa52a">view dashboard</a>
