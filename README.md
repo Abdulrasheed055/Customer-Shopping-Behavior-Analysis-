@@ -212,10 +212,3 @@ HAVING COUNT(*) > 5;
 * Objective: Support marketing, sales, and product strategy using actionable insights
 
 ```
-
----
-
- 
-
-Do you want me to do that next?
-```
