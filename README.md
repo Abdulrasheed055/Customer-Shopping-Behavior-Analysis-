@@ -215,5 +215,4 @@ HAVING COUNT(*) > 5;
 
 Dashboard interaction <a href="">view dashboard</a>
 
-![Power bi Dashboard](https://github.com/Abdulrasheed055/Customer-Shopping-Behavior-Analysis-/blob/main/customer.png)
-
+![Power BI Dashboard](https://raw.githubusercontent.com/Abdulrasheed055/Customer-Shopping-Behavior-Analysis-/main/customer.png)
